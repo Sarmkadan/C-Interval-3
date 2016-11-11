@@ -1,0 +1,18 @@
+c:\users\sarmkadan\documents\visual studio 2013\Projects\TNPS3\TNPS3\bin\Debug\TNPS3.exe.config
+c:\users\sarmkadan\documents\visual studio 2013\Projects\TNPS3\TNPS3\bin\Debug\TNPS3.exe
+c:\users\sarmkadan\documents\visual studio 2013\Projects\TNPS3\TNPS3\bin\Debug\TNPS3.pdb
+c:\users\sarmkadan\documents\visual studio 2013\Projects\TNPS3\TNPS3\obj\Debug\TNPS3.csprojResolveAssemblyReference.cache
+c:\users\sarmkadan\documents\visual studio 2013\Projects\TNPS3\TNPS3\obj\Debug\TNPS3.Form1.resources
+c:\users\sarmkadan\documents\visual studio 2013\Projects\TNPS3\TNPS3\obj\Debug\TNPS3.Properties.Resources.resources
+c:\users\sarmkadan\documents\visual studio 2013\Projects\TNPS3\TNPS3\obj\Debug\TNPS3.csproj.GenerateResource.Cache
+c:\users\sarmkadan\documents\visual studio 2013\Projects\TNPS3\TNPS3\obj\Debug\TNPS3.exe
+c:\users\sarmkadan\documents\visual studio 2013\Projects\TNPS3\TNPS3\obj\Debug\TNPS3.pdb
+D:\TNPS3\TNPS3\bin\Debug\TNPS3.exe.config
+D:\TNPS3\TNPS3\obj\Debug\TNPS3.exe
+D:\TNPS3\TNPS3\obj\Debug\TNPS3.pdb
+D:\TNPS3\TNPS3\obj\Debug\TNPS3.Form1.resources
+D:\TNPS3\TNPS3\obj\Debug\TNPS3.Properties.Resources.resources
+D:\TNPS3\TNPS3\obj\Debug\TNPS3.csproj.GenerateResource.Cache
+D:\TNPS3\TNPS3\bin\Debug\TNPS3.exe
+D:\TNPS3\TNPS3\bin\Debug\TNPS3.pdb
+D:\TNPS3\TNPS3\obj\Debug\TNPS3.csprojResolveAssemblyReference.cache
